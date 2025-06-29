@@ -1,0 +1,494 @@
+{
+  "data": {
+    "characters": {
+      "info": {
+        "count": 826,
+        "pages": 42,
+        "next": 4,
+        "prev": 2
+      },
+      "results": [
+        {
+          "id": "41",
+          "name": "Blur Ball",
+          "status": "Unknown",
+          "species": "Alien",
+          "type": "",
+          "gender": "unknown",
+          "origin": {
+            "id": "5",
+            "name": "unknown"
+          },
+          "location": {
+            "id": "5",
+            "name": "unknown"
+          },
+          "image": "https://rickandmortyapi.com/api/character/avatar/41.jpeg",
+          "episode": [
+            {
+              "id": "11",
+              "name": "Ricksy Business"
+            }
+          ],
+          "created": "2017-11-05T09:50:50.892Z"
+        },
+        {
+          "id": "42",
+          "name": "Boobloosian",
+          "status": "Unknown",
+          "species": "Alien",
+          "type": "",
+          "gender": "unknown",
+          "origin": {
+            "id": "16",
+            "name": "Boobaloo"
+          },
+          "location": {
+            "id": "16",
+            "name": "Boobaloo"
+          },
+          "image": "https://rickandmortyapi.com/api/character/avatar/42.jpeg",
+          "episode": [
+            {
+              "id": "14",
+              "name": "Auto Erotic Assimilation"
+            }
+          ],
+          "created": "2017-11-05T09:54:17.826Z"
+        },
+        {
+          "id": "43",
+          "name": "Bootleg Portal Chemist Rick",
+          "status": "Dead",
+          "species": "Human",
+          "type": "",
+          "gender": "Male",
+          "origin": {
+            "id": "5",
+            "name": "unknown"
+          },
+          "location": {
+            "id": "3",
+            "name": "Citadel of Ricks"
+          },
+          "image": "https://rickandmortyapi.com/api/character/avatar/43.jpeg",
+          "episode": [
+            {
+              "id": "28",
+              "name": "The Ricklantis Mixup"
+            }
+          ],
+          "created": "2017-11-05T10:00:20.402Z"
+        },
+        {
+          "id": "44",
+          "name": "Borpocian",
+          "status": "Unknown",
+          "species": "Alien",
+          "type": "",
+          "gender": "unknown",
+          "origin": {
+            "id": "17",
+            "name": "Borpocopia"
+          },
+          "location": {
+            "id": "17",
+            "name": "Borpocopia"
+          },
+          "image": "https://rickandmortyapi.com/api/character/avatar/44.jpeg",
+          "episode": [
+            {
+              "id": "14",
+              "name": "Auto Erotic Assimilation"
+            }
+          ],
+          "created": "2017-11-05T10:02:46.165Z"
+        },
+        {
+          "id": "45",
+          "name": "Brad",
+          "status": "Alive",
+          "species": "Human",
+          "type": "",
+          "gender": "Male",
+          "origin": {
+            "id": "1",
+            "name": "Earth (C-137)"
+          },
+          "location": {
+            "id": "1",
+            "name": "Earth (Replacement Dimension)"
+          },
+          "image": "https://rickandmortyapi.com/api/character/avatar/45.jpeg",
+          "episode": [
+            {
+              "id": "17",
+              "name": "Big Trouble in Little Sanchez"
+            }
+          ],
+          "created": "2017-11-05T10:11:25.846Z"
+        },
+        {
+          "id": "46",
+          "name": "Bre-Na-Na",
+          "status": "Dead",
+          "species": "Alien",
+          "type": "Parasite",
+          "gender": "Female",
+          "origin": {
+            "id": "5",
+            "name": "unknown"
+          },
+          "location": {
+            "id": "1",
+            "name": "Earth (Replacement Dimension)"
+          },
+          "image": "https://rickandmortyapi.com/api/character/avatar/46.jpeg",
+          "episode": [
+            {
+              "id": "15",
+              "name": "Total Rickall"
+            }
+          ],
+          "created": "2017-11-05T10:15:26.044Z"
+        },
+        {
+          "id": "47",
+          "name": "Broccolina",
+          "status": "Dead",
+          "species": "Alien",
+          "type": "Parasite",
+          "gender": "Female",
+          "origin": {
+            "id": "5",
+            "name": "unknown"
+          },
+          "location": {
+            "id": "1",
+            "name": "Earth (Replacement Dimension)"
+          },
+          "image": "https://rickandmortyapi.com/api/character/avatar/47.jpeg",
+          "episode": [
+            {
+              "id": "15",
+              "name": "Total Rickall"
+            }
+          ],
+          "created": "2017-11-05T10:17:33.903Z"
+        },
+        {
+          "id": "48",
+          "name": "Bro-sis",
+          "status": "Dead",
+          "species": "Alien",
+          "type": "Parasite",
+          "gender": "Male",
+          "origin": {
+            "id": "5",
+            "name": "unknown"
+          },
+          "location": {
+            "id": "1",
+            "name": "Earth (Replacement Dimension)"
+          },
+          "image": "https://rickandmortyapi.com/api/character/avatar/48.jpeg",
+          "episode": [
+            {
+              "id": "15",
+              "name": "Total Rickall"
+            }
+          ],
+          "created": "2017-11-05T10:19:28.709Z"
+        },
+        {
+          "id": "49",
+          "name": "Butthead",
+          "status": "Dead",
+          "species": "Alien",
+          "type": "Parasite",
+          "gender": "Male",
+          "origin": {
+            "id": "5",
+            "name": "unknown"
+          },
+          "location": {
+            "id": "1",
+            "name": "Earth (Replacement Dimension)"
+          },
+          "image": "https://rickandmortyapi.com/api/character/avatar/49.jpeg",
+          "episode": [
+            {
+              "id": "15",
+              "name": "Total Rickall"
+            }
+          ],
+          "created": "2017-11-05T10:21:36.286Z"
+        },
+        {
+          "id": "50",
+          "name": "Calypso",
+          "status": "Alive",
+          "species": "Human",
+          "type": "",
+          "gender": "Female",
+          "origin": {
+            "id": "18",
+            "name": "Miami"
+          },
+          "location": {
+            "id": "18",
+            "name": "Miami"
+          },
+          "image": "https://rickandmortyapi.com/api/character/avatar/50.jpeg",
+          "episode": [
+            {
+              "id": "30",
+              "name": "The Whirly Dirly Conspiracy"
+            }
+          ],
+          "created": "2017-11-05T10:25:50.208Z"
+        },
+        {
+          "id": "51",
+          "name": "Campaign Manager Morty",
+          "status": "Dead",
+          "species": "Human",
+          "type": "",
+          "gender": "Male",
+          "origin": {
+            "id": "5",
+            "name": "unknown"
+          },
+          "location": {
+            "id": "3",
+            "name": "Citadel of Ricks"
+          },
+          "image": "https://rickandmortyapi.com/api/character/avatar/51.jpeg",
+          "episode": [
+            {
+              "id": "28",
+              "name": "The Ricklantis Mixup"
+            }
+          ],
+          "created": "2017-11-05T10:28:13.756Z"
+        },
+        {
+          "id": "52",
+          "name": "Cat Monster",
+          "status": "Dead",
+          "species": "Alien",
+          "type": "",
+          "gender": "unknown",
+          "origin": {
+            "id": "5",
+            "name": "unknown"
+          },
+          "location": {
+            "id": "19",
+            "name": "Testicle Monster Dimension"
+          },
+          "image": "https://rickandmortyapi.com/api/character/avatar/52.jpeg",
+          "episode": [
+            {
+              "id": "10",
+              "name": "Close Rick-counters of the Rick Kind"
+            }
+          ],
+          "created": "2017-11-05T10:36:16.165Z"
+        },
+        {
+          "id": "53",
+          "name": "Centaur",
+          "status": "Dead",
+          "species": "Mythological Creature",
+          "type": "",
+          "gender": "Male",
+          "origin": {
+            "id": "13",
+            "name": "Fantasy World"
+          },
+          "location": {
+            "id": "13",
+            "name": "Fantasy World"
+          },
+          "image": "https://rickandmortyapi.com/api/character/avatar/53.jpeg",
+          "episode": [
+            {
+              "id": "18",
+              "name": "Something Ricked This Way Comes"
+            }
+          ],
+          "created": "2017-11-05T10:38:31.373Z"
+        },
+        {
+          "id": "54",
+          "name": "Chris",
+          "status": "Dead",
+          "species": "Alien",
+          "type": "",
+          "gender": "Male",
+          "origin": {
+            "id": "11",
+            "name": "Venzenulon 7"
+          },
+          "location": {
+            "id": "11",
+            "name": "Venzenulon 7"
+          },
+          "image": "https://rickandmortyapi.com/api/character/avatar/54.jpeg",
+          "episode": [
+            {
+              "id": "17",
+              "name": "M. Night Shaym-Aliens!"
+            }
+          ],
+          "created": "2017-11-05T10:40:46.165Z"
+        },
+        {
+          "id": "55",
+          "name": "Coach Feratu (Balik Alistane)",
+          "status": "Dead",
+          "species": "Vampire",
+          "type": "",
+          "gender": "Male",
+          "origin": {
+            "id": "5",
+            "name": "unknown"
+          },
+          "location": {
+            "id": "14",
+            "name": "Harry Herpson High School"
+          },
+          "image": "https://rickandmortyapi.com/api/character/avatar/55.jpeg",
+          "episode": [
+            {
+              "id": "17",
+              "name": "Big Trouble in Little Sanchez"
+            }
+          ],
+          "created": "2017-11-05T10:42:46.472Z"
+        },
+        {
+          "id": "56",
+          "name": "Collector",
+          "status": "Alive",
+          "species": "Alien",
+          "type": "",
+          "gender": "Male",
+          "origin": {
+            "id": "5",
+            "name": "unknown"
+          },
+          "location": {
+            "id": "20",
+            "name": "Collector's Base"
+          },
+          "image": "https://rickandmortyapi.com/api/character/avatar/56.jpeg",
+          "episode": [
+            {
+              "id": "27",
+              "name": "Rest and Ricklaxation"
+            }
+          ],
+          "created": "2017-11-05T10:44:33.521Z"
+        },
+        {
+          "id": "57",
+          "name": "Colossus",
+          "status": "Dead",
+          "species": "Robot",
+          "type": "",
+          "gender": "Male",
+          "origin": {
+            "id": "5",
+            "name": "unknown"
+          },
+          "location": {
+            "id": "4",
+            "name": "Worldender's lair"
+          },
+          "image": "https://rickandmortyapi.com/api/character/avatar/57.jpeg",
+          "episode": [
+            {
+              "id": "25",
+              "name": "Vindicators 3: The Return of Worldender"
+            }
+          ],
+          "created": "2017-11-05T10:46:36.611Z"
+        },
+        {
+          "id": "58",
+          "name": "Concerto",
+          "status": "Dead",
+          "species": "Human",
+          "type": "",
+          "gender": "Male",
+          "origin": {
+            "id": "1",
+            "name": "Earth (C-137)"
+          },
+          "location": {
+            "id": "21",
+            "name": "St. Gloopy Noops Hospital"
+          },
+          "image": "https://rickandmortyapi.com/api/character/avatar/58.jpeg",
+          "episode": [
+            {
+              "id": "12",
+              "name": "Anatomy Park"
+            }
+          ],
+          "created": "2017-11-05T10:48:36.611Z"
+        },
+        {
+          "id": "59",
+          "name": "Cop Morty",
+          "status": "Dead",
+          "species": "Human",
+          "type": "",
+          "gender": "Male",
+          "origin": {
+            "id": "5",
+            "name": "unknown"
+          },
+          "location": {
+            "id": "3",
+            "name": "Citadel of Ricks"
+          },
+          "image": "https://rickandmortyapi.com/api/character/avatar/59.jpeg",
+          "episode": [
+            {
+              "id": "28",
+              "name": "The Ricklantis Mixup"
+            }
+          ],
+          "created": "2017-11-05T10:50:33.521Z"
+        },
+        {
+          "id": "60",
+          "name": "Cop Rick",
+          "status": "Dead",
+          "species": "Human",
+          "type": "",
+          "gender": "Male",
+          "origin": {
+            "id": "5",
+            "name": "unknown"
+          },
+          "location": {
+            "id": "3",
+            "name": "Citadel of Ricks"
+          },
+          "image": "https://rickandmortyapi.com/api/character/avatar/60.jpeg",
+          "episode": [
+            {
+              "id": "28",
+              "name": "The Ricklantis Mixup"
+            }
+          ],
+          "created": "2017-11-05T10:52:36.611Z"
+        }
+      ]
+    }
+  }
+}

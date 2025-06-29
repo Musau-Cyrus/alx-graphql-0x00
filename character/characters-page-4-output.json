@@ -1,0 +1,498 @@
+{
+  "data": {
+    "characters": {
+      "info": {
+        "count": 826,
+        "pages": 42,
+        "next": 5,
+        "prev": 3
+      },
+      "results": [
+        {
+          "id": "61",
+          "name": "Cousin Nicky",
+          "status": "Dead",
+          "species": "Alien",
+          "type": "Parasite",
+          "gender": "Male",
+          "origin": {
+            "id": "5",
+            "name": "unknown"
+          },
+          "location": {
+            "id": "1",
+            "name": "Earth (Replacement Dimension)"
+          },
+          "image": "https://rickandmortyapi.com/api/character/avatar/61.jpeg",
+          "episode": [
+            {
+              "id": "15",
+              "name": "Total Rickall"
+            }
+          ],
+          "created": "2017-11-05T10:54:36.611Z"
+        },
+        {
+          "id": "62",
+          "name": "Cowboy Morty",
+          "status": "Alive",
+          "species": "Human",
+          "type": "",
+          "gender": "Male",
+          "origin": {
+            "id": "5",
+            "name": "unknown"
+          },
+          "location": {
+            "id": "3",
+            "name": "Citadel of Ricks"
+          },
+          "image": "https://rickandmortyapi.com/api/character/avatar/62.jpeg",
+          "episode": [
+            {
+              "id": "10",
+              "name": "Close Rick-counters of the Rick Kind"
+            }
+          ],
+          "created": "2017-11-05T10:56:36.611Z"
+        },
+        {
+          "id": "63",
+          "name": "Cowboy Rick",
+          "status": "Alive",
+          "species": "Human",
+          "type": "",
+          "gender": "Male",
+          "origin": {
+            "id": "5",
+            "name": "unknown"
+          },
+          "location": {
+            "id": "3",
+            "name": "Citadel of Ricks"
+          },
+          "image": "https://rickandmortyapi.com/api/character/avatar/63.jpeg",
+          "episode": [
+            {
+              "id": "10",
+              "name": "Close Rick-counters of the Rick Kind"
+            }
+          ],
+          "created": "2017-11-05T10:58:36.611Z"
+        },
+        {
+          "id": "64",
+          "name": "Crocubot",
+          "status": "Dead",
+          "species": "Robot",
+          "type": "",
+          "gender": "Male",
+          "origin": {
+            "id": "5",
+            "name": "unknown"
+          },
+          "location": {
+            "id": "4",
+            "name": "Worldender's lair"
+          },
+          "image": "https://rickandmortyapi.com/api/character/avatar/64.jpeg",
+          "episode": [
+            {
+              "id": "25",
+              "name": "Vindicators 3: The Return of Worldender"
+            }
+          ],
+          "created": "2017-11-05T11:00:36.611Z"
+        },
+        {
+          "id": "65",
+          "name": "Cromulon",
+          "status": "Alive",
+          "species": "Alien",
+          "type": "Cromulon",
+          "gender": "unknown",
+          "origin": {
+            "id": "8",
+            "name": "Signus 5 Expanse"
+          },
+          "location": {
+            "id": "8",
+            "name": "Signus 5 Expanse"
+          },
+          "image": "https://rickandmortyapi.com/api/character/avatar/65.jpeg",
+          "episode": [
+            {
+              "id": "16",
+              "name": "Get Schwifty"
+            }
+          ],
+          "created": "2017-11-05T11:02:36.611Z"
+        },
+        {
+          "id": "66",
+          "name": "Cyclops Morty",
+          "status": "Alive",
+          "species": "Human",
+          "type": "Human with cyclops eye",
+          "gender": "Male",
+          "origin": {
+            "id": "5",
+            "name": "unknown"
+          },
+          "location": {
+            "id": "3",
+            "name": "Citadel of Ricks"
+          },
+          "image": "https://rickandmortyapi.com/api/character/avatar/66.jpeg",
+          "episode": [
+            {
+              "id": "10",
+              "name": "Close Rick-counters of the Rick Kind"
+            },
+            {
+              "id": "28",
+              "name": "The Ricklantis Mixup"
+            }
+          ],
+          "created": "2017-11-05T11:04:36.611Z"
+        },
+        {
+          "id": "67",
+          "name": "Cyclops Rick",
+          "status": "Unknown",
+          "species": "Human",
+          "type": "Human with cyclops eye",
+          "gender": "Male",
+          "origin": {
+            "id": "5",
+            "name": "unknown"
+          },
+          "location": {
+            "id": "3",
+            "name": "Citadel of Ricks"
+          },
+          "image": "https://rickandmortyapi.com/api/character/avatar/67.jpeg",
+          "episode": [
+            {
+              "id": "10",
+              "name": "Close Rick-counters of the Rick Kind"
+            }
+          ],
+          "created": "2017-11-05T11:06:36.611Z"
+        },
+        {
+          "id": "68",
+          "name": "Cynthia",
+          "status": "Dead",
+          "species": "Human",
+          "type": "",
+          "gender": "Female",
+          "origin": {
+            "id": "1",
+            "name": "Earth (C-137)"
+          },
+          "location": {
+            "id": "21",
+            "name": "St. Gloopy Noops Hospital"
+          },
+          "image": "https://rickandmortyapi.com/api/character/avatar/68.jpeg",
+          "episode": [
+            {
+              "id": "12",
+              "name": "Anatomy Park"
+            }
+          ],
+          "created": "2017-11-05T11:08:36.611Z"
+        },
+        {
+          "id": "69",
+          "name": "Dale",
+          "status": "Dead",
+          "species": "Human",
+          "type": "",
+          "gender": "Male",
+          "origin": {
+            "id": "1",
+            "name": "Earth (C-137)"
+          },
+          "location": {
+            "id": "21",
+            "name": "St. Gloopy Noops Hospital"
+          },
+          "image": "https://rickandmortyapi.com/api/character/avatar/69.jpeg",
+          "episode": [
+            {
+              "id": "12",
+              "name": "Anatomy Park"
+            }
+          ],
+          "created": "2017-11-05T11:10:36.611Z"
+        },
+        {
+          "id": "70",
+          "name": "Darlene",
+          "status": "Alive",
+          "species": "Poopybutthole",
+          "type": "",
+          "gender": "Female",
+          "origin": {
+            "id": "5",
+            "name": "unknown"
+          },
+          "location": {
+            "id": "5",
+            "name": "unknown"
+          },
+          "image": "https://rickandmortyapi.com/api/character/avatar/70.jpeg",
+          "episode": [
+            {
+              "id": "15",
+              "name": "Total Rickall"
+            }
+          ],
+          "created": "2017-11-05T11:12:36.611Z"
+        },
+        {
+          "id": "71",
+          "name": "Dave",
+          "status": "Dead",
+          "species": "Human",
+          "type": "",
+          "gender": "Male",
+          "origin": {
+            "id": "1",
+            "name": "Earth (C-137)"
+          },
+          "location": {
+            "id": "21",
+            "name": "St. Gloopy Noops Hospital"
+          },
+          "image": "https://rickandmortyapi.com/api/character/avatar/71.jpeg",
+          "episode": [
+            {
+              "id": "12",
+              "name": "Anatomy Park"
+            }
+          ],
+          "created": "2017-11-05T11:14:36.611Z"
+        },
+        {
+          "id": "72",
+          "name": "Detective Morty",
+          "status": "Dead",
+          "species": "Human",
+          "type": "",
+          "gender": "Male",
+          "origin": {
+            "id": "5",
+            "name": "unknown"
+          },
+          "location": {
+            "id": "3",
+            "name": "Citadel of Ricks"
+          },
+          "image": "https://rickandmortyapi.com/api/character/avatar/72.jpeg",
+          "episode": [
+            {
+              "id": "28",
+              "name": "The Ricklantis Mixup"
+            }
+          ],
+          "created": "2017-11-05T11:16:36.611Z"
+        },
+        {
+          "id": "73",
+          "name": "Diane Sanchez",
+          "status": "Dead",
+          "species": "Human",
+          "type": "",
+          "gender": "Female",
+          "origin": {
+            "id": "1",
+            "name": "Earth (C-137)"
+          },
+          "location": {
+            "id": "1",
+            "name": "Earth (C-137)"
+          },
+          "image": "https://rickandmortyapi.com/api/character/avatar/73.jpeg",
+          "episode": [
+            {
+              "id": "22",
+              "name": "The Wedding Squanchers"
+            }
+          ],
+          "created": "2017-11-05T11:18:36.611Z"
+        },
+        {
+          "id": "74",
+          "name": "Dipper and Mabel Mortys",
+          "status": "Unknown",
+          "species": "Human",
+          "type": "",
+          "gender": "unknown",
+          "origin": {
+            "id": "5",
+            "name": "unknown"
+          },
+          "location": {
+            "id": "3",
+            "name": "Citadel of Ricks"
+          },
+          "image": "https://rickandmortyapi.com/api/character/avatar/74.jpeg",
+          "episode": [
+            {
+              "id": "10",
+              "name": "Close Rick-counters of the Rick Kind"
+            }
+          ],
+          "created": "2017-11-05T11:20:36.611Z"
+        },
+        {
+          "id": "75",
+          "name": "Doofus Jerry",
+          "status": "Unknown",
+          "species": "Human",
+          "type": "",
+          "gender": "Male",
+          "origin": {
+            "id": "5",
+            "name": "unknown"
+          },
+          "location": {
+            "id": "22",
+            "name": "Doofus Jerry's Universe"
+          },
+          "image": "https://rickandmortyapi.com/api/character/avatar/75.jpeg",
+          "episode": [
+            {
+              "id": "8",
+              "name": "Rixty Minutes"
+            }
+          ],
+          "created": "2017-11-05T11:22:36.611Z"
+        },
+        {
+          "id": "76",
+          "name": "Doofus Rick",
+          "status": "Alive",
+          "species": "Human",
+          "type": "",
+          "gender": "Male",
+          "origin": {
+            "id": "23",
+            "name": "Doofus Rick's Dimension"
+          },
+          "location": {
+            "id": "23",
+            "name": "Doofus Rick's Dimension"
+          },
+          "image": "https://rickandmortyapi.com/api/character/avatar/76.jpeg",
+          "episode": [
+            {
+              "id": "10",
+              "name": "Close Rick-counters of the Rick Kind"
+            }
+          ],
+          "created": "2017-11-05T11:24:36.611Z"
+        },
+        {
+          "id": "77",
+          "name": "Dornhubon",
+          "status": "Unknown",
+          "species": "Alien",
+          "type": "",
+          "gender": "Male",
+          "origin": {
+            "id": "24",
+            "name": "Bird World"
+          },
+          "location": {
+            "id": "12",
+            "name": "Nuptia 4"
+          },
+          "image": "https://rickandmortyapi.com/api/character/avatar/77.jpeg",
+          "episode": [
+            {
+              "id": "21",
+              "name": "The Wedding Squanchers"
+            }
+          ],
+          "created": "2017-11-05T11:26:36.611Z"
+        },
+        {
+          "id": "78",
+          "name": "Dr. Glip-Glop",
+          "status": "Dead",
+          "species": "Alien",
+          "type": "",
+          "gender": "Male",
+          "origin": {
+            "id": "11",
+            "name": "Venzenulon 7"
+          },
+          "location": {
+            "id": "11",
+            "name": "Venzenulon 7"
+          },
+          "image": "https://rickandmortyapi.com/api/character/avatar/78.jpeg",
+          "episode": [
+            {
+              "id": "17",
+              "name": "M. Night Shaym-Aliens!"
+            }
+          ],
+          "created": "2017-11-05T11:28:36.611Z"
+        },
+        {
+          "id": "79",
+          "name": "Dr. Ruben",
+          "status": "Dead",
+          "species": "Human",
+          "type": "",
+          "gender": "Male",
+          "origin": {
+            "id": "1",
+            "name": "Earth (C-137)"
+          },
+          "location": {
+            "id": "21",
+            "name": "St. Gloopy Noops Hospital"
+          },
+          "image": "https://rickandmortyapi.com/api/character/avatar/79.jpeg",
+          "episode": [
+            {
+              "id": "12",
+              "name": "Anatomy Park"
+            }
+          ],
+          "created": "2017-11-05T11:30:36.611Z"
+        },
+        {
+          "id": "80",
+          "name": "Dr. Schmidt",
+          "status": "Dead",
+          "species": "Human",
+          "type": "",
+          "gender": "Male",
+          "origin": {
+            "id": "1",
+            "name": "Earth (C-137)"
+          },
+          "location": {
+            "id": "25",
+            "name": "Roy's Arcade"
+          },
+          "image": "https://rickandmortyapi.com/api/character/avatar/80.jpeg",
+          "episode": [
+            {
+              "id": "13",
+              "name": "Mortynight Run"
+            }
+          ],
+          "created": "2017-11-05T11:32:36.611Z"
+        }
+      ]
+    }
+  }
+}

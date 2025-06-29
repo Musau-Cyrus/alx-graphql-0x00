@@ -1,0 +1,502 @@
+{
+  "data": {
+    "characters": {
+      "info": {
+        "count": 826,
+        "pages": 42,
+        "next": 3,
+        "prev": 1
+      },
+      "results": [
+        {
+          "id": "21",
+          "name": "Aqua Morty",
+          "status": "Unknown",
+          "species": "Humanoid",
+          "type": "Fish-Person",
+          "gender": "Male",
+          "origin": {
+            "id": "5",
+            "name": "unknown"
+          },
+          "location": {
+            "id": "3",
+            "name": "Citadel of Ricks"
+          },
+          "image": "https://rickandmortyapi.com/api/character/avatar/21.jpeg",
+          "episode": [
+            {
+              "id": "10",
+              "name": "Close Rick-counters of the Rick Kind"
+            }
+          ],
+          "created": "2017-11-04T22:39:48.055Z"
+        },
+        {
+          "id": "22",
+          "name": "Aqua Rick",
+          "status": "Unknown",
+          "species": "Humanoid",
+          "type": "Fish-Person",
+          "gender": "Male",
+          "origin": {
+            "id": "5",
+            "name": "unknown"
+          },
+          "location": {
+            "id": "3",
+            "name": "Citadel of Ricks"
+          },
+          "image": "https://rickandmortyapi.com/api/character/avatar/22.jpeg",
+          "episode": [
+            {
+              "id": "10",
+              "name": "Close Rick-counters of the Rick Kind"
+            }
+          ],
+          "created": "2017-11-04T22:41:07.171Z"
+        },
+        {
+          "id": "23",
+          "name": "Arcade Alien",
+          "status": "Unknown",
+          "species": "Alien",
+          "type": "",
+          "gender": "Male",
+          "origin": {
+            "id": "5",
+            "name": "unknown"
+          },
+          "location": {
+            "id": "7",
+            "name": "Immortality Field Resort"
+          },
+          "image": "https://rickandmortyapi.com/api/character/avatar/23.jpeg",
+          "episode": [
+            {
+              "id": "13",
+              "name": "Rixty Minutes"
+            },
+            {
+              "id": "19",
+              "name": "Interdimensional Cable 2: Tempting Fate"
+            }
+          ],
+          "created": "2017-11-05T08:43:05.095Z"
+        },
+        {
+          "id": "24",
+          "name": "Armagheadon",
+          "status": "Alive",
+          "species": "Alien",
+          "type": "Cromulon",
+          "gender": "Male",
+          "origin": {
+            "id": "8",
+            "name": "Signus 5 Expanse"
+          },
+          "location": {
+            "id": "8",
+            "name": "Signus 5 Expanse"
+          },
+          "image": "https://rickandmortyapi.com/api/character/avatar/24.jpeg",
+          "episode": [
+            {
+              "id": "16",
+              "name": "Get Schwifty"
+            }
+          ],
+          "created": "2017-11-05T08:48:30.776Z"
+        },
+        {
+          "id": "25",
+          "name": "Armothy",
+          "status": "Dead",
+          "species": "unknown",
+          "type": "Self-defense system",
+          "gender": "Male",
+          "origin": {
+            "id": "5",
+            "name": "unknown"
+          },
+          "location": {
+            "id": "9",
+            "name": "Curse Purge Plus!"
+          },
+          "image": "https://rickandmortyapi.com/api/character/avatar/25.jpeg",
+          "episode": [
+            {
+              "id": "18",
+              "name": "Something Ricked This Way Comes"
+            }
+          ],
+          "created": "2017-11-05T08:54:29.343Z"
+        },
+        {
+          "id": "26",
+          "name": "Arthricia",
+          "status": "Alive",
+          "species": "Alien",
+          "type": "Cat-Person",
+          "gender": "Female",
+          "origin": {
+            "id": "10",
+            "name": "Purge Planet"
+          },
+          "location": {
+            "id": "10",
+            "name": "Purge Planet"
+          },
+          "image": "https://rickandmortyapi.com/api/character/avatar/26.jpeg",
+          "episode": [
+            {
+              "id": "20",
+              "name": "Look Who's Purging Now"
+            }
+          ],
+          "created": "2017-11-05T08:56:46.165Z"
+        },
+        {
+          "id": "27",
+          "name": "Artist Morty",
+          "status": "Alive",
+          "species": "Human",
+          "type": "",
+          "gender": "Male",
+          "origin": {
+            "id": "5",
+            "name": "unknown"
+          },
+          "location": {
+            "id": "3",
+            "name": "Citadel of Ricks"
+          },
+          "image": "https://rickandmortyapi.com/api/character/avatar/27.jpeg",
+          "episode": [
+            {
+              "id": "28",
+              "name": "The Ricklantis Mixup"
+            }
+          ],
+          "created": "2017-11-05T08:59:07.457Z"
+        },
+        {
+          "id": "28",
+          "name": "Attorney Morty",
+          "status": "Unknown",
+          "species": "Human",
+          "type": "",
+          "gender": "Male",
+          "origin": {
+            "id": "5",
+            "name": "unknown"
+          },
+          "location": {
+            "id": "3",
+            "name": "Citadel of Ricks"
+          },
+          "image": "https://rickandmortyapi.com/api/character/avatar/28.jpeg",
+          "episode": [
+            {
+              "id": "28",
+              "name": "The Ricklantis Mixup"
+            }
+          ],
+          "created": "2017-11-05T09:02:507.169Z"
+        },
+        {
+          "id": "29",
+          "name": "Baby Legs",
+          "status": "Alive",
+          "species": "Human",
+          "type": "Human with baby legs",
+          "gender": "Male",
+          "origin": {
+            "id": "5",
+            "name": "unknown"
+          },
+          "location": {
+            "id": "6",
+            "name": "Interdimensional Cable"
+          },
+          "image": "https://rickandmortyapi.com/api/character/avatar/29.jpeg",
+          "episode": [
+            {
+              "id": "8",
+              "name": "Rixty Minutes"
+            }
+          ],
+          "created": "2017-11-05T09:06:19.644Z"
+        },
+        {
+          "id": "30",
+          "name": "Baby Poopybutthole",
+          "status": "Alive",
+          "species": "Poopybutthole",
+          "type": "",
+          "gender": "Male",
+          "origin": {
+            "id": "5",
+            "name": "unknown"
+          },
+          "location": {
+            "id": "5",
+            "name": "unknown"
+          },
+          "image": "https://rickandmortyapi.com/api/character/avatar/30.jpeg",
+          "episode": [
+            {
+              "id": "15",
+              "name": "Total Rickall"
+            }
+          ],
+          "created": "2017-11-05T09:13:16.483Z"
+        },
+        {
+          "id": "31",
+          "name": "Baby Wizard",
+          "status": "Dead",
+          "species": "Alien",
+          "type": "Parasite",
+          "gender": "Male",
+          "origin": {
+            "id": "5",
+            "name": "unknown"
+          },
+          "location": {
+            "id": "1",
+            "name": "Earth (Replacement Dimension)"
+          },
+          "image": "https://rickandmortyapi.com/api/character/avatar/31.jpeg",
+          "episode": [
+            {
+              "id": "15",
+              "name": "Total Rickall"
+            }
+          ],
+          "created": "2017-11-05T09:15:11.286Z"
+        },
+        {
+          "id": "32",
+          "name": "Bearded Lady",
+          "status": "Dead",
+          "species": "Alien",
+          "type": "Parasite",
+          "gender": "Female",
+          "origin": {
+            "id": "5",
+            "name": "unknown"
+          },
+          "location": {
+            "id": "1",
+            "name": "Earth (Replacement Dimension)"
+          },
+          "image": "https://rickandmortyapi.com/api/character/avatar/32.jpeg",
+          "episode": [
+            {
+              "id": "15",
+              "name": "Total Rickall"
+            }
+          ],
+          "created": "2017-11-05T09:18:04.833Z"
+        },
+        {
+          "id": "33",
+          "name": "Beebo",
+          "status": "Dead",
+          "species": "Alien",
+          "type": "",
+          "gender": "Male",
+          "origin": {
+            "id": "11",
+            "name": "Venzenulon 7"
+          },
+          "location": {
+            "id": "11",
+            "name": "Venzenulon 7"
+          },
+          "image": "https://rickandmortyapi.com/api/character/avatar/33.jpeg",
+          "episode": [
+            {
+              "id": "17",
+              "name": "M. Night Shaym-Aliens!"
+            }
+          ],
+          "created": "2017-11-05T09:21:55.595Z"
+        },
+        {
+          "id": "34",
+          "name": "Benjamin",
+          "status": "Alive",
+          "species": "Poopybutthole",
+          "type": "",
+          "gender": "Male",
+          "origin": {
+            "id": "5",
+            "name": "unknown"
+          },
+          "location": {
+            "id": "5",
+            "name": "unknown"
+          },
+          "image": "https://rickandmortyapi.com/api/character/avatar/34.jpeg",
+          "episode": [
+            {
+              "id": "15",
+              "name": "Total Rickall"
+            }
+          ],
+          "created": "2017-11-05T09:24:04.748Z"
+        },
+        {
+          "id": "35",
+          "name": "Beta-Seven",
+          "status": "Alive",
+          "species": "Alien",
+          "type": "Hivemind",
+          "gender": "unknown",
+          "origin": {
+            "id": "12",
+            "name": "Nuptia 4"
+          },
+          "location": {
+            "id": "12",
+            "name": "Nuptia 4"
+          },
+          "image": "https://rickandmortyapi.com/api/character/avatar/35.jpeg",
+          "episode": [
+            {
+              "id": "21",
+              "name": "The Wedding Squanchers"
+            }
+          ],
+          "created": "2017-11-05T09:27:38.491Z"
+        },
+        {
+          "id": "36",
+          "name": "Beth's Mytholog",
+          "status": "Dead",
+          "species": "Mythological Creature",
+          "type": "",
+          "gender": "Female",
+          "origin": {
+            "id": "12",
+            "name": "Nuptia 4"
+          },
+          "location": {
+            "id": "12",
+            "name": "Nuptia 4"
+          },
+          "image": "https://rickandmortyapi.com/api/character/avatar/36.jpeg",
+          "episode": [
+            {
+              "id": "18",
+              "name": "Something Ricked This Way Comes"
+            }
+          ],
+          "created": "2017-11-05T09:29:11.363Z"
+        },
+        {
+          "id": "37",
+          "name": "Big Boobed Waitress",
+          "status": "Alive",
+          "species": "Mythological Creature",
+          "type": "",
+          "gender": "Female",
+          "origin": {
+            "id": "13",
+            "name": "Fantasy World"
+          },
+          "location": {
+            "id": "13",
+            "name": "Fantasy World"
+          },
+          "image": "https://rickandmortyapi.com/api/character/avatar/37.jpeg",
+          "episode": [
+            {
+              "id": "18",
+              "name": "Something Ricked This Way Comes"
+            }
+          ],
+          "created": "2017-11-05T09:36:15.169Z"
+        },
+        {
+          "id": "38",
+          "name": "Big Morty",
+          "status": "Dead",
+          "species": "Human",
+          "type": "",
+          "gender": "Male",
+          "origin": {
+            "id": "5",
+            "name": "unknown"
+          },
+          "location": {
+            "id": "3",
+            "name": "Citadel of Ricks"
+          },
+          "image": "https://rickandmortyapi.com/api/character/avatar/38.jpeg",
+          "episode": [
+            {
+              "id": "28",
+              "name": "The Ricklantis Mixup"
+            }
+          ],
+          "created": "2017-11-05T09:38:04.055Z"
+        },
+        {
+          "id": "39",
+          "name": "Big Trouble in Little Sanchez",
+          "status": "Dead",
+          "species": "Human",
+          "type": "Clone",
+          "gender": "Male",
+          "origin": {
+            "id": "1",
+            "name": "Earth (C-137)"
+          },
+          "location": {
+            "id": "14",
+            "name": "Harry Herpson High School"
+          },
+          "image": "https://rickandmortyapi.com/api/character/avatar/39.jpeg",
+          "episode": [
+            {
+              "id": "17",
+              "name": "Big Trouble in Little Sanchez"
+            }
+          ],
+          "created": "2017-11-05T09:40:07.665Z"
+        },
+        {
+          "id": "40",
+          "name": "Birdperson",
+          "status": "Alive",
+          "species": "Alien",
+          "type": "Bird-Person",
+          "gender": "Male",
+          "origin": {
+            "id": "15",
+            "name": "Bird World"
+          },
+          "location": {
+            "id": "12",
+            "name": "Nuptia 4"
+          },
+          "image": "https://rickandmortyapi.com/api/character/avatar/40.jpeg",
+          "episode": [
+            {
+              "id": "11",
+              "name": "Ricksy Business"
+            },
+            {
+              "id": "21",
+              "name": "The Wedding Squanchers"
+            }
+          ],
+          "created": "2017-11-05T09:48:04.941Z"
+        }
+      ]
+    }
+  }
+}
