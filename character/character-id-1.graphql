@@ -1,5 +1,5 @@
 query GetCharacterById{
-    character(id: 3){
+    character(id: 1){
         id
         name
         status
